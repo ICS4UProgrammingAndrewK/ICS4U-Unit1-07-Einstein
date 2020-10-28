@@ -1,7 +1,12 @@
 import java.util.Scanner;
-/**
- * Class Einstein
- */
+ /**
+*
+* class Einstein
+*
+* @author  Andrew Kuekam
+* @version 1.0
+* @since   2020-18-09
+*/
 public class Einstein {
 	public static void main(String[] args) {
     
